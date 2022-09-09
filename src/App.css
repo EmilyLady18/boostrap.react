@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(238,252,255);
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+  box-sizing: border-box;
+
+}
+
+.fontFamly{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(4,30,55);
+  font-size: 4em;
+}
+.bgBlue{
+  background-color: rgb(4,30,55);
+}
+.fontSize{
+  font-size: 2em;
+}
